@@ -17,5 +17,4 @@ setInterval(function(){
     let rand_result=Math.floor(Math.random()*100+1);
     if(rand_result<35)
         huurin_sound.play();
-    console.log(rand_result);
 }, 3000);
