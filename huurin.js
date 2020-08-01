@@ -1,3 +1,5 @@
+
+//furin program
 let canvas = document.getElementById("huurin");
 let context = canvas.getContext("2d");
 
